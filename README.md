@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a cybersecurity student who switched over from aerospace engineering in late 2025. I spent my first few months on TryHackMe getting a taste of what cybersecurity was like, and from there I started focusing on the blue team side. I began with security operations on LetsDefend, investigating alerts in a simulated SOC, and that's what led to my blue team projects, which are where I do most of my exploring now. Most of that has been in detection engineering, learning to write rules that catch threats, and I've also dabbled in AI security, learning both how to integrate AI into existing security tools and how to defend it against prompt injection.
-
-That's where I'm at for now, and from here on, I'm onto the next thing! 
+I'm a cybersecurity student who switched over from aerospace engineering in late 2025. So far, I've been exploring the blue team side, mainly security operations and detection engineering, and I've also dabbled in AI security, both integrating AI into security tools like a SIEM and defending it against prompt injection.
 
 ## What I've Worked On
 
