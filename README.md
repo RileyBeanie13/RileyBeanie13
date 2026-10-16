@@ -4,6 +4,8 @@
 
 I'm a cybersecurity student who switched over from aerospace engineering in late 2025. So far, I've been exploring the blue team side, mainly security operations and detection engineering, and I've also dabbled in AI security, both integrating AI into security tools like a SIEM and defending it against prompt injection.
 
+Nice to meet you!
+
 ## What I've Worked On
 
 **[detection-engineering-lab](https://github.com/RileyBeanie13/detection-engineering-lab)** (Aug 17 – Oct 15, 2026): a Wazuh home lab with six custom detection rules, each written for a gap in the default ruleset after running the attack it detects and documented in its own finding. On top of the rules, I built an LLM-assisted triage layer that sends every alert to a locally hosted Qwen model, writes its verdict back into the Wazuh dashboard, and was tested against prompt injection.
