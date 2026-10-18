@@ -8,7 +8,7 @@ Nice to meet you!
 
 ## What I've Worked On
 
-**[detection-engineering-lab](https://github.com/RileyBeanie13/detection-engineering-lab)** (Aug 17 – Oct 15, 2026): a Wazuh home lab with six custom detection rules, each written for a gap in the default ruleset after running the attack it detects and documented in its own finding. On top of the rules, I built an LLM-assisted triage layer that sends every alert to a locally hosted Qwen model, writes its verdict back into the Wazuh dashboard, and was tested against prompt injection.
+**[detection-engineering-lab](https://github.com/RileyBeanie13/detection-engineering-lab)** (Aug 17 – Oct 15, 2026): a Wazuh home lab with six custom detection rules, each written for a gap in the default ruleset after running the attack it detects and documented in its own finding. On top of the rules, I built an LLM-assisted triage layer that sends every alert to a locally hosted Qwen model and writes its verdict back into the Wazuh dashboard. I then tested it against prompt injection and hardened its defenses, cutting successful injections from 395 of 570 runs to 2 of 570.
 
 **[letsdefend-writeups](https://github.com/RileyBeanie13/letsdefend-writeups)** (Jul 26 – Aug 15, 2026): my investigation writeups for LetsDefend SOC and monitoring alerts, focused on explaining the evidence behind each verdict rather than just the verdict itself.
 
